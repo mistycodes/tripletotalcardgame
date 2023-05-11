@@ -21,3 +21,4 @@ The player with 30 points wins.
 3 Face cards auto wins
 
 3 Aces auto fails
+
